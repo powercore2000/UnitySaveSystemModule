@@ -1,0 +1,2 @@
+# UnitySaveSystemModule
+A json based save system that uses generics and the data binding pattern to support serializing and retriving
